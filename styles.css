@@ -1,0 +1,45 @@
+/********************Tag Selection************/
+h1 {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
+
+body {
+  background-color: #66BFBF;
+}
+
+p {
+  text-decoration: underline;
+  text-align: center;
+  color: red;
+}
+img:hover {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: gold;
+}
+/***************************************
+
+****************************************/
+/************************Class Selection**************************/
+.bacon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: yellow;
+}
+
+.lemon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: red;
+}
+
+.daire {
+  border-radius: 100%;
+}
+
+/***************************ID Selection************************/
